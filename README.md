@@ -4,4 +4,4 @@ NPM: 2106701066
 
 Kelas: C
 
-Hobi: Nyanyi
+Hobi: Menyanyi
